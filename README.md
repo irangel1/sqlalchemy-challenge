@@ -1,4 +1,4 @@
-# Surfs Up!
+# SQLAlchemy Homework - Surfs Up!
 
 ![surfs-up.jpeg](surfs-up.jpeg)
 
